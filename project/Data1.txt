@@ -1,0 +1,40 @@
+1st    Semester
+PH100X    Applied Physics
+ENG1091    Functional English
+CSC1071    Introduction to Computing
+CSC1072    Discrete Structures
+MA1001   Calculus
+2nd    Semester
+MA1005    Linear Algebra
+ENG1092    Communication & Presentation Skills
+HU1092    Pakistan Studies
+CSC1071    Programming Fundamentals
+CSC2073    Software Engineering Fundamentals
+HU1091    Islamic Studies
+3rd    Semester
+CSC2078    Database Systems
+MGT1081    Principles of Management
+CSC2071    Object Oriented Programming
+CSC2075    Computer Organization & Assembly Language
+SS1093    Introductionto Psychology
+4th    Semester
+STAT2003    Probability and Statistics 
+MA2002    Multivariable Calculus 
+ENG3091    Technical Writing
+CSC2077    DataStructures and Algorithms
+CSC1074    Digital Logic Design
+5th    Semester
+CSC3071    Design and Analysis of Algorithms
+CSC2074    DataCommunication and Networks
+CSC3072    Operating Systems
+CSC3073    Introduction to Artificial Intelligence
+MA4001    Numerical Computing
+6th    Semester
+MA300X    Graph Theory
+CSC2076    Theory of Automata and Formal Languages
+TE1113    Introduction to Textiles
+CSEXXXX    CS Elective-I
+CSEXXXX    CS Elective-II
+CSCXXXX    Parallel and Distributed Computing
+CSCXXXX  
+CSCXXXX 

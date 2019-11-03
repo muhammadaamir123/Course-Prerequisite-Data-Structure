@@ -1,0 +1,14 @@
+﻿Build started 04/07/2018 10:17:50.
+     1>Project "F:\University\4th Semester Data\Project\project 9\project 9\project 9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>f:\university\4th semester data\project\project 9\project 9\source.cpp(124): warning C4101: 'str3' : unreferenced local variable
+     1>f:\university\4th semester data\project\project 9\project 9\source.cpp(122): warning C4101: 'n' : unreferenced local variable
+     1>f:\university\4th semester data\project\project 9\project 9\source.cpp(491): warning C4715: 'Login::SignIn' : not all control paths return a value
+     1>f:\university\4th semester data\project\project 9\project 9\source.cpp(1422): error C4703: potentially uninitialized local pointer variable 'pev' used
+     1>Done Building Project "F:\University\4th Semester Data\Project\project 9\project 9\project 9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.12
